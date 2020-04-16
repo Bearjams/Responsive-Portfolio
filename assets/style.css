@@ -316,11 +316,18 @@ a:active{
         margin: 0 auto;
         border: solid 2px;
     }
+    h1{
+        width: 100%;
+        margin-left: 0em;
+        padding-left: ;
+
+    }
     .foot{
         width: 639px;
     }
     #main-bio{
         width: 50%;
+        
     }
     
     #text{
@@ -329,15 +336,40 @@ a:active{
     #text1{
         width: 450px;
     }
+    .centered{
+        left: 209px;
+    }
     .right-center{
-        left: 195px;
+        left: 209px;
+        top: 325px;
+    }
+    .bottom-centered{
+        bottom: 350px;
+        left: 209px;
     }
     .left-center{
-        left: 195px;
+        left: 209px;
+    }
+    .bottom-center{
+        left: 209px;
     }
     span{
-        margin-left: 200px;
+        margin-left: 245px;
     }
-    
+    .column{
+        /* float: none; */
+        width: 100%;
+        
+       
+        
+    }
+    .image{
+        margin-left: auto;
+        margin-right: auto;
+        width: 8em
+        
+        
+        
+    }
 }
 
