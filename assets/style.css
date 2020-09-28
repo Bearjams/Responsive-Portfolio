@@ -186,6 +186,7 @@ form{
 #tiger{
     left: 0;
     bottom: 100%;
+    margin-left: 100px;
 }
 .right-center{
     position: absolute;
@@ -245,10 +246,11 @@ form{
     padding-top: 10px;
     padding-bottom: 10px;
 }
-/* #cats{
+#cats{
     left: 0;
     bottom: 100%;
-} */
+    margin-left: 100px;
+}
 .right{
     position: absolute;
     left: 15px;
